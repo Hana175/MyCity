@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">City</string>
+    <string name="start">Browse the city!</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+    <string name="next">Next!</string>
+    <string name="choose_category">Choose Category</string>
+    <string name="recomm">Our Recommendation To You.</string>
+</resources>
